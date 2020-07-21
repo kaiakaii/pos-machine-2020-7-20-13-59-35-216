@@ -1,0 +1,20 @@
+#task1:extractItemsByDB
+P:5min
+D:10min
+C:don't know some methods
+A:remember these methods
+#task2:loadAllItems
+P:5min
+D:2min
+C:None
+A:keep on
+#task3:calculateAllItems
+P:5min
+D:60min
+C:Got wrapped in array traversal and js object processing
+A:Work harder at JS
+#task4:calculateTotal
+P:5min
+D:5min
+C:None
+A:keep on
