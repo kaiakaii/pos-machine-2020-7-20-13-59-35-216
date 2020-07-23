@@ -73,7 +73,7 @@ function extractItemsByDB(barcodeCount, allItems) {
 }
 function calculateAllItems(items) {
     let msg = "\n***<store earning no money>Receipt ***\n";
-    msg += calculateSingle(items, msg);
+    msg = calculateSingle(items, msg);
     let total = calculateTotal(items);
     msg += "----------------------\n";
     msg += "Total: " + total + " (yuan)\n";
